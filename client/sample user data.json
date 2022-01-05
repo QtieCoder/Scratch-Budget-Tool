@@ -1,0 +1,512 @@
+{
+    "userData": {
+        "name": "TEST"
+    },
+    "transactions": [
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-01T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 30,
+            "debit": true,
+            "credit": false,
+            "name": "groceries"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-02T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 40,
+            "debit": false,
+            "credit": true,
+            "name": "groceries"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-03T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 50,
+            "debit": true,
+            "credit": false,
+            "name": "groceries"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-11-01T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 30,
+            "debit": true,
+            "credit": false,
+            "name": "gym"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-11-02T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 40,
+            "debit": false,
+            "credit": true,
+            "name": "gym"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-11-03T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 50,
+            "debit": true,
+            "credit": false,
+            "name": "gym"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-01T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 30,
+            "debit": true,
+            "credit": false,
+            "name": "rent"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-02T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 40,
+            "debit": false,
+            "credit": true,
+            "name": "rent"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-03T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 50,
+            "debit": true,
+            "credit": false,
+            "name": "rent"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-12-01T05:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 30,
+            "debit": true,
+            "credit": false,
+            "name": "car loan"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-12-02T05:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 40,
+            "debit": false,
+            "credit": true,
+            "name": "car loan"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-12-03T05:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 50,
+            "debit": true,
+            "credit": false,
+            "name": "car loan"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-01T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 30,
+            "debit": true,
+            "credit": false,
+            "name": "fun money"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-02T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 40,
+            "debit": false,
+            "credit": true,
+            "name": "fun money"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-03T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 50,
+            "debit": true,
+            "credit": false,
+            "name": "fun money"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-01T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 30,
+            "debit": true,
+            "credit": false,
+            "name": "student loan"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-02T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 40,
+            "debit": false,
+            "credit": true,
+            "name": "student loan"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-03T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 50,
+            "debit": true,
+            "credit": false,
+            "name": "student loan"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-01T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 30,
+            "debit": true,
+            "credit": false,
+            "name": "electronics"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-02T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 40,
+            "debit": false,
+            "credit": true,
+            "name": "electronics"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-03T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 50,
+            "debit": true,
+            "credit": false,
+            "name": "electronics"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-01T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 30,
+            "debit": true,
+            "credit": false,
+            "name": "daycare"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-02T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 40,
+            "debit": false,
+            "credit": true,
+            "name": "daycare"
+        },
+        {
+            "accounttype": "asset",
+            "accountfrom": null,
+            "accountto": null,
+            "account": "bank",
+            "date": "2021-10-03T04:00:00.000Z",
+            "payee": "stuff",
+            "notes": "",
+            "amount": 50,
+            "debit": true,
+            "credit": false,
+            "name": "daycare"
+        }
+    ],
+    "categories": [
+        {
+            "name": "groceries"
+        },
+        {
+            "name": "gym"
+        },
+        {
+            "name": "rent"
+        },
+        {
+            "name": "car loan"
+        },
+        {
+            "name": "fun money"
+        },
+        {
+            "name": "student loan"
+        },
+        {
+            "name": "electronics"
+        },
+        {
+            "name": "daycare"
+        },
+        {
+            "name": "clothing"
+        }
+    ],
+    "categoryBudget": [
+        {
+            "datefrom": "2021-10-01T04:00:00.000Z",
+            "dateto": "2021-10-31T04:00:00.000Z",
+            "amount": 100,
+            "name": "groceries"
+        },
+        {
+            "datefrom": "2021-11-01T04:00:00.000Z",
+            "dateto": "2021-11-30T05:00:00.000Z",
+            "amount": 100,
+            "name": "groceries"
+        },
+        {
+            "datefrom": "2021-12-01T05:00:00.000Z",
+            "dateto": "2021-12-31T05:00:00.000Z",
+            "amount": 100,
+            "name": "groceries"
+        },
+        {
+            "datefrom": "2021-10-01T04:00:00.000Z",
+            "dateto": "2021-10-31T04:00:00.000Z",
+            "amount": 100,
+            "name": "gym"
+        },
+        {
+            "datefrom": "2021-11-01T04:00:00.000Z",
+            "dateto": "2021-11-30T05:00:00.000Z",
+            "amount": 100,
+            "name": "gym"
+        },
+        {
+            "datefrom": "2021-12-01T05:00:00.000Z",
+            "dateto": "2021-12-31T05:00:00.000Z",
+            "amount": 100,
+            "name": "gym"
+        },
+        {
+            "datefrom": "2021-10-01T04:00:00.000Z",
+            "dateto": "2021-10-31T04:00:00.000Z",
+            "amount": 100,
+            "name": "rent"
+        },
+        {
+            "datefrom": "2021-11-01T04:00:00.000Z",
+            "dateto": "2021-11-30T05:00:00.000Z",
+            "amount": 100,
+            "name": "rent"
+        },
+        {
+            "datefrom": "2021-12-01T05:00:00.000Z",
+            "dateto": "2021-12-31T05:00:00.000Z",
+            "amount": 100,
+            "name": "rent"
+        },
+        {
+            "datefrom": "2021-10-01T04:00:00.000Z",
+            "dateto": "2021-10-31T04:00:00.000Z",
+            "amount": 100,
+            "name": "car loan"
+        },
+        {
+            "datefrom": "2021-11-01T04:00:00.000Z",
+            "dateto": "2021-11-30T05:00:00.000Z",
+            "amount": 100,
+            "name": "car loan"
+        },
+        {
+            "datefrom": "2021-12-01T05:00:00.000Z",
+            "dateto": "2021-12-31T05:00:00.000Z",
+            "amount": 100,
+            "name": "car loan"
+        },
+        {
+            "datefrom": "2021-10-01T04:00:00.000Z",
+            "dateto": "2021-10-31T04:00:00.000Z",
+            "amount": 100,
+            "name": "fun money"
+        },
+        {
+            "datefrom": "2021-11-01T04:00:00.000Z",
+            "dateto": "2021-11-30T05:00:00.000Z",
+            "amount": 100,
+            "name": "fun money"
+        },
+        {
+            "datefrom": "2021-12-01T05:00:00.000Z",
+            "dateto": "2021-12-31T05:00:00.000Z",
+            "amount": 100,
+            "name": "fun money"
+        },
+        {
+            "datefrom": "2021-10-01T04:00:00.000Z",
+            "dateto": "2021-10-31T04:00:00.000Z",
+            "amount": 100,
+            "name": "student loan"
+        },
+        {
+            "datefrom": "2021-11-01T04:00:00.000Z",
+            "dateto": "2021-11-30T05:00:00.000Z",
+            "amount": 100,
+            "name": "student loan"
+        },
+        {
+            "datefrom": "2021-12-01T05:00:00.000Z",
+            "dateto": "2021-12-31T05:00:00.000Z",
+            "amount": 100,
+            "name": "student loan"
+        },
+        {
+            "datefrom": "2021-10-01T04:00:00.000Z",
+            "dateto": "2021-10-31T04:00:00.000Z",
+            "amount": 100,
+            "name": "electronics"
+        },
+        {
+            "datefrom": "2021-11-01T04:00:00.000Z",
+            "dateto": "2021-11-30T05:00:00.000Z",
+            "amount": 100,
+            "name": "electronics"
+        },
+        {
+            "datefrom": "2021-12-01T05:00:00.000Z",
+            "dateto": "2021-12-31T05:00:00.000Z",
+            "amount": 100,
+            "name": "electronics"
+        },
+        {
+            "datefrom": "2021-10-01T04:00:00.000Z",
+            "dateto": "2021-10-31T04:00:00.000Z",
+            "amount": 100,
+            "name": "daycare"
+        },
+        {
+            "datefrom": "2021-11-01T04:00:00.000Z",
+            "dateto": "2021-11-30T05:00:00.000Z",
+            "amount": 100,
+            "name": "daycare"
+        },
+        {
+            "datefrom": "2021-12-01T05:00:00.000Z",
+            "dateto": "2021-12-31T05:00:00.000Z",
+            "amount": 100,
+            "name": "daycare"
+        },
+        {
+            "datefrom": "2021-10-01T04:00:00.000Z",
+            "dateto": "2021-10-31T04:00:00.000Z",
+            "amount": 100,
+            "name": "clothing"
+        },
+        {
+            "datefrom": "2021-11-01T04:00:00.000Z",
+            "dateto": "2021-11-30T05:00:00.000Z",
+            "amount": 100,
+            "name": "clothing"
+        },
+        {
+            "datefrom": "2021-12-01T05:00:00.000Z",
+            "dateto": "2021-12-31T05:00:00.000Z",
+            "amount": 100,
+            "name": "clothing"
+        }
+    ]
+}
